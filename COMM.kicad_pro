@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.45,
-          "height": 5.5,
-          "width": 5.5
+          "drill": 0.8,
+          "height": 1.27,
+          "width": 2.54
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -48,144 +48,11 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.2
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "clearance|115713650|84494999|a161beeb-32ec-42d7-9b14-1e3f49508af9|cf2649d3-39cc-4009-b8e3-1b67b2b992ad",
-          ""
-        ],
-        [
-          "clearance|117719900|83219899|fdede2b6-6ded-4462-8ea8-e14d2d8a70f0|2f68fca9-75d7-49b9-96a5-59301d75be89",
-          ""
-        ],
-        [
-          "clearance|117827501|83282500|fdede2b6-6ded-4462-8ea8-e14d2d8a70f0|fa055619-7258-404e-bb52-62561d8980c8",
-          ""
-        ],
-        [
-          "clearance|117827501|84720026|2bb62344-063a-40a5-af0b-d0806b2b9210|c1680e83-c8e2-450a-9ffc-d5b1f7690272",
-          ""
-        ],
-        [
-          "clearance|76727400|63477850|8b4da8bc-a19d-445e-aeac-17e5a7595d0f|10c12257-d5f8-4304-b957-ed4a3c769f80",
-          ""
-        ],
-        [
-          "clearance|76922726|66563950|87771a97-c84a-4b97-b4a0-5ac8be2eadf7|8417fdcc-eb3f-48c9-babd-905de6d142bf",
-          ""
-        ],
-        [
-          "clearance|77227526|63477850|10c12257-d5f8-4304-b957-ed4a3c769f80|dc9cfa9d-fefd-477f-ad45-e14d1b4a7f87",
-          ""
-        ],
-        [
-          "clearance|77422852|66563950|65518035-27db-4c01-bd9e-19e72e0205fb|87771a97-c84a-4b97-b4a0-5ac8be2eadf7",
-          ""
-        ],
-        [
-          "clearance|77727652|63477850|dc9cfa9d-fefd-477f-ad45-e14d1b4a7f87|348dd737-9e2d-492d-a0d7-6ec3e16d21e1",
-          ""
-        ],
-        [
-          "clearance|77922978|66563950|d4f1e754-d169-4389-9bd3-dbd3536c1d30|65518035-27db-4c01-bd9e-19e72e0205fb",
-          ""
-        ],
-        [
-          "clearance|78227778|63477850|348dd737-9e2d-492d-a0d7-6ec3e16d21e1|a3110df1-422d-44eb-8dd5-8a6432ee27da",
-          ""
-        ],
-        [
-          "clearance|78423104|66563950|33b31747-9273-4d45-8421-26102a6e4b7e|d4f1e754-d169-4389-9bd3-dbd3536c1d30",
-          ""
-        ],
-        [
-          "clearance|78727904|63477850|a3110df1-422d-44eb-8dd5-8a6432ee27da|dff7a9c4-96e0-4f81-9775-9916a116ea30",
-          ""
-        ],
-        [
-          "clearance|78923230|66563950|e02964b2-7e0a-46f7-8051-dc269c251dd7|33b31747-9273-4d45-8421-26102a6e4b7e",
-          ""
-        ],
-        [
-          "clearance|79228030|63477850|dff7a9c4-96e0-4f81-9775-9916a116ea30|dbf7f545-59b8-4530-a868-ff22c8eeee71",
-          ""
-        ],
-        [
-          "clearance|79423356|66563950|17f239f5-61ce-4c53-a674-beef583234d0|e02964b2-7e0a-46f7-8051-dc269c251dd7",
-          ""
-        ],
-        [
-          "courtyards_overlap|136015000|40854500|653fce41-0580-4919-bf01-1f916f2c15c5|bf644797-7c85-4dbf-8115-adc3914c4f7f",
-          ""
-        ],
-        [
-          "courtyards_overlap|136015000|43605000|228985ba-55c6-4703-ba31-4dcba6b5eef1|653fce41-0580-4919-bf01-1f916f2c15c5",
-          ""
-        ],
-        [
-          "courtyards_overlap|68975000|39007477|653fce41-0580-4919-bf01-1f916f2c15c5|8a60a478-3dc4-481d-8994-98efd1e43b33",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|130235000|116135000|77933f4a-5aa9-4b7c-8530-b6d2d2714b9d|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|78075378|64443050|eb52197e-cb6f-4191-8586-6a7c554ed3b4|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "lib_footprint_mismatch|79147500|93525000|b469ca04-c58b-4df6-8549-235af2c69888|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|125875000|63125000|1526994a-1369-4a3d-b882-dee140de21ab|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|126374999|62624998|1526994a-1369-4a3d-b882-dee140de21ab|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|135987500|86462501|bf801348-f911-42ba-8762-b0311f8debcc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "malformed_courtyard|136487499|85962499|bf801348-f911-42ba-8762-b0311f8debcc|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_overlap|135770000|43850000|1a442331-f0d8-4e4c-b65c-9a4663e4f5c4|41428ee1-f66d-4ba8-83c3-9c0f42f23c53",
-          ""
-        ],
-        [
-          "silk_overlap|135770000|43850000|1a442331-f0d8-4e4c-b65c-9a4663e4f5c4|5b48d28f-130b-406d-8c29-a774d0fd337d",
-          ""
-        ],
-        [
-          "silk_overlap|135770000|43850000|251df8bc-ea43-456f-bb1f-d198dfea2086|41428ee1-f66d-4ba8-83c3-9c0f42f23c53",
-          ""
-        ],
-        [
-          "silk_overlap|69220000|43720000|5b48d28f-130b-406d-8c29-a774d0fd337d|5c960f9c-cbfc-45e3-a712-127831a9a508",
-          ""
-        ],
-        [
-          "silk_overlap|69220000|43850000|251df8bc-ea43-456f-bb1f-d198dfea2086|5b48d28f-130b-406d-8c29-a774d0fd337d",
-          ""
-        ],
-        [
-          "silk_overlap|69220000|43850000|251df8bc-ea43-456f-bb1f-d198dfea2086|95c956d3-4f26-4107-8064-16f09ee5c7f3",
-          ""
-        ],
-        [
-          "silk_overlap|69220000|43850000|5c960f9c-cbfc-45e3-a712-127831a9a508|95c956d3-4f26-4107-8064-16f09ee5c7f3",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -243,7 +110,7 @@
         "track_segment_length": "error",
         "track_width": "error",
         "tracks_crossing": "error",
-        "unconnected_items": "ignore",
+        "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "warning",
         "zones_intersect": "error"
@@ -544,9 +411,9 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
-      "footprint_filter": "warning",
+      "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
-      "four_way_junction": "warning",
+      "four_way_junction": "ignore",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
@@ -562,15 +429,15 @@
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "warning",
+      "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "warning",
+      "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "warning",
+      "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "undefined_netclass": "error",
@@ -584,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "HEDGE2-COMM.kicad_pro",
+    "filename": "COMM.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -606,34 +473,6 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
-      },
-      {
-        "clearance": 0.2,
-        "diff_pair_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "Power",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.4,
-        "via_diameter": 0.6,
-        "via_drill": 0.3
-      },
-      {
-        "clearance": 0.1,
-        "diff_pair_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "RF_GNSS",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.6,
-        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -641,31 +480,14 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "Power",
-        "pattern": "+5V_GNSS"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "+5V_MPU"
-      },
-      {
-        "netclass": "Power",
-        "pattern": "+5V_OEM719B"
-      },
-      {
-        "netclass": "RF_GNSS",
-        "pattern": "RF_GNSS"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerbers/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -738,150 +560,12 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "DigiKey Part Number",
-          "name": "DigiKey Part Number",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Field4",
-          "name": "Field4",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Field5",
-          "name": "Field5",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Field6",
-          "name": "Field6",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Field7",
-          "name": "Field7",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Field8",
-          "name": "Field8",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Height",
-          "name": "Height",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "JLCPCB Part Number",
-          "name": "JLCPCB Part Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer_Name",
-          "name": "Manufacturer_Name",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Manufacturer_Part_Number",
-          "name": "Manufacturer_Part_Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Mouser Part Number",
-          "name": "Mouser Part Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Mouser Price/Stock",
-          "name": "Mouser Price/Stock",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Part Description",
-          "name": "Part Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Sim.Pins",
-          "name": "Sim.Pins",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Arrow Price/Stock",
-          "name": "Arrow Price/Stock",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "#",
-          "name": "${ITEM_NUMBER}",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "STANDARD",
-          "name": "STANDARD",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MAXIMUM_PACKAGE_HEIGHT",
-          "name": "MAXIMUM_PACKAGE_HEIGHT",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "Arrow Part Number",
-          "name": "Arrow Part Number",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "MANUFACTURER",
-          "name": "MANUFACTURER",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "SNAPEDA_PN",
-          "name": "SNAPEDA_PN",
-          "show": false
-        },
-        {
-          "group_by": false,
-          "label": "PARTREV",
-          "name": "PARTREV",
-          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "",
+      "name": "Default Editing",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -894,7 +578,7 @@
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
-      "intersheets_ref_short": true,
+      "intersheets_ref_short": false,
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
@@ -927,36 +611,16 @@
   },
   "sheets": [
     [
-      "ace5002f-3cbc-4a0a-869b-0e31ebd905b7",
+      "b0bd204d-ca77-4624-acd2-31813bf00a6c",
       "Root"
     ],
     [
-      "893aef5a-59ff-410b-9a71-9930aaf04e9f",
-      "OBC"
+      "f8a49f97-5020-4b11-b7a8-995f1e0e664b",
+      "RS485"
     ],
     [
-      "617751c8-9e63-43a2-807c-be0203e52cd6",
-      "COMM"
-    ],
-    [
-      "662a4538-a857-4d47-9892-e46e278fb04f",
-      "EPS"
-    ],
-    [
-      "740c0668-bfac-47e0-b7b8-de442260ca55",
-      "INA260_OEM719"
-    ],
-    [
-      "d3868309-a946-47d2-bb65-3f159979e5fb",
-      "TCAN1046AVDYYRQ1"
-    ],
-    [
-      "9fa6cc5e-a76a-4d58-8af7-47af14171882",
-      "INA260_CM4"
-    ],
-    [
-      "e2cad078-3ca5-46c7-a65f-c1e6fb9d60cb",
-      "TPS543320"
+      "cc7c49a8-591f-4208-8d3b-cfd7a2cd1435",
+      "TCAN Driver"
     ]
   ],
   "text_variables": {}
