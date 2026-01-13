@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SS_5GLD2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "OMRON Electronics", "SS-5GLD2" (!) = "", "SS5GLD2", "Other", "653-SS-5GLD2", "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/SS-5GLD2?qs=1tDaWCEHQQ5Kjmt2FsnuUw%3D%3D", "", "", "Microswitch, Subminiature, Hinge Roller Lever, SPDT, Through Hole, 5 A Current Rating (Amps)   5A (AC)", "https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf", "12.9 mm"
+END_PART
+
+END.

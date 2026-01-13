@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESQ_126_39_G_D_001'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMTEC", "ESQ-126-39-G-D-001" (!) = "", "RHDR52W64P254_2X26_6654X495X1135P", "Header, Receptacle - Straight PTH Box", "200-ESQ12639GD001", "https://www.mouser.co.uk/ProductDetail/Samtec/ESQ-126-39-G-D-001?qs=PB6%2FjmICvI2K%2FCIgL4SVbg%3D%3D", "ESQ-126-39-G-D-001", "https://www.arrow.com/en/products/esq-126-39-g-d-001/samtec?region=nac", "PC / 104 Connectors Elevated Socket Strip, 0.100 Pitch", "http://suddendocs.samtec.com/catalog_english/esq_th.pdf", "11.35 mm"
+END_PART
+
+END.

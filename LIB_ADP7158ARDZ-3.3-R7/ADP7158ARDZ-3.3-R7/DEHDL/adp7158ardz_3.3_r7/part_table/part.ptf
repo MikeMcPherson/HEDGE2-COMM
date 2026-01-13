@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADP7158ARDZ_3.3_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADP7158ARDZ-3.3-R7" (!) = "", "SOIC127P600X175-9N", "Small Outline Packages", "584-ADP7158ARDZ3.3R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7158ARDZ-3.3-R7?qs=JeIcUl65ClBbLSN64Y7owQ%3D%3D", "ADP7158ARDZ-3.3-R7", "https://www.arrow.com/en/products/adp7158ardz-3.3-r7/analog-devices?utm_currency=USD&region=nac", "LDO Voltage Regulators 3.3/5Vin 1.2A Ultra Low Noise LDO Fixed", "https://componentsearchengine.com/Datasheets/1/ADP7158ARDZ-3.3-R7.pdf", "1.75 mm"
+END_PART
+
+END.

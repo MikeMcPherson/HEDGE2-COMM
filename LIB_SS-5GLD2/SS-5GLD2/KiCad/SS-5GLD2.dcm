@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SS-5GLD2
+D Microswitch, Subminiature, Hinge Roller Lever, SPDT, Through Hole, 5 A Current Rating (Amps)   5A (AC)
+K
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf
+$ENDCMP
+#
+#End Doc Library

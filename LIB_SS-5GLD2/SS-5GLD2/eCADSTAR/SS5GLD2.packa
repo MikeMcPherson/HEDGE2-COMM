@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SS-5GLD2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-10-30-11:45:38)
+    (mountForm default
+        (footprintRef "SS5GLD2")
+        (spec "System")
+    )
+)

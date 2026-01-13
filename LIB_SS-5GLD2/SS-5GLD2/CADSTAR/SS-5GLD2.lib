@@ -1,0 +1,18 @@
+.SS-5GLD2 :1 ;Microswitch, Subminiature, Hinge Roller Lever, SPDT, Through Hole, 5 A Current Rating (Amps)   5A (AC)
+SS5GLD2
+*STM S
+*NGS
+*PLB 1="COM" 2="NO" 3="NC"
+*MXP 3
+*DFN SS-5GLD2
+~!Manufacturer_Name (OMRON Electronics)
+~!Manufacturer_Part_Number (SS-5GLD2)
+~!Mouser Part Number (653-SS-5GLD2)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Omron-Electronics/SS-5GLD2?qs=1tDaWCEHQQ5Kjmt2FsnuUw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://omronfs.omron.com/en_US/ecb/products/pdf/en-ss.pdf)
+~!Height (12.9mm)
+~!3D_Model (SS-5GLD2)
+SS-5GLD2
+1.1!U 2.1!U 3.1!U 

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADP7158ARDZ-3.3-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=1.1
+Released=2019-02-14 11:36:23
+Downloaded=2025-11-20 20:10:13
+3D=Y

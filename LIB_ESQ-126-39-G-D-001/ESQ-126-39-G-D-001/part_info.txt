@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=ESQ-126-39-G-D-001
+PartCategory=Connector
+PackageCategory=Header, Receptacle - Straight PTH Box
+PinCount=52
+Version=1.1
+Released=2023-01-27 08:44:01
+Downloaded=2025-11-20 20:41:56
+3D=Y
