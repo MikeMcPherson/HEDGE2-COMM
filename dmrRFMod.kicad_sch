@@ -1820,7 +1820,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "R_10OHM:RESC1005X40"
+		(property "Footprint" "R_220O:RESC6332X70N"
 			(at 110.236 95.504 90)
 			(effects
 				(font
@@ -2482,7 +2482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "R_10kO:RESC1005X40N"
 			(at 129.794 70.866 90)
 			(effects
 				(font

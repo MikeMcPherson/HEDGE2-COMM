@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_541505"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:50:41)
+    (utime 2026-01-26-15:28:25)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "RC0402FR-0710KL")
+)
+
+
+(pinAssign "ECS_541505"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:50:41)
+    (utime 2026-01-26-15:28:25)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_541505")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "RC0402FR-0710KL")
+)
+
+
+(part "RC0402FR-0710KL"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-09:50:41)
+    (utime 2026-01-26-15:28:25)
+    (packageRef "RC0402FR-0710KL")
+    (pinAssignRef "ECS_541505")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "YAGEO (PHYCOMP) - RC0402FR-0710KL. - RES, THICK FILM, 10K, 1%, 0.0625W, 0402")
+    (property "Manufacturer_Name" "KEMET")
+    (property "Manufacturer_Part_Number" "RC0402FR-0710KL")
+    (property "Mouser_Part_Number" "603-RC0402FR-0710KL")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0402FR-0710KL?qs=I1mnnYJTTsxUoNwrUsQExA%3D%3D")
+    (property "Arrow_Part_Number" "RC0402FR-0710KL")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/rc0402fr-0710kl/yageo?region=europe")
+    (property "Datasheet_Link" "http://www.yageo.com/documents/recent/PYu-RC0402_51_RoHS_L_6_r.pdf")
+    (property "compAreaTopHeight" 0.4)
+)
+
+
