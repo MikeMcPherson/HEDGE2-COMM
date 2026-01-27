@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_849093"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-20-09:59:56)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CL21A476MQYNNNE")
+)
+
+
+(pinAssign "ECS_849093"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-20-09:59:56)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_849093")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CL21A476MQYNNNE")
+)
+
+
+(part "CL21A476MQYNNNE"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-20-09:59:56)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "CL21A476MQYNNNE")
+    (pinAssignRef "ECS_849093")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Cap Ceramic 47uF 6.3V X5R 20% Pad SMD 0805 85C T/R")
+    (property "Manufacturer_Name" "SAMSUNG")
+    (property "Manufacturer_Part_Number" "CL21A476MQYNNNE")
+    (property "Mouser_Part_Number" "187-CL21A476MQYNNNE")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A476MQYNNNE?qs=yOVawPpwOwkBQMdcEdF9JA%3D%3D")
+    (property "Arrow_Part_Number" "CL21A476MQYNNNE")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/cl21a476mqynnne/samsung-electro-mechanics?region=nac")
+    (property "Datasheet_Link" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
+    (property "compAreaTopHeight" 1.35)
+)
+
+

@@ -1,0 +1,18 @@
+.CL21A476MQYNNNE :1 ;Cap Ceramic 47uF 6.3V X5R 20% Pad SMD 0805 85C T/R
+CAPC2012X135N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CL21A476MQYNNNE
+~!Manufacturer_Name (SAMSUNG)
+~!Manufacturer_Part_Number (CL21A476MQYNNNE)
+~!Mouser Part Number (187-CL21A476MQYNNNE)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A476MQYNNNE?qs=yOVawPpwOwkBQMdcEdF9JA%3D%3D)
+~!Arrow Part Number (CL21A476MQYNNNE)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/cl21a476mqynnne/samsung-electro-mechanics?region=nac)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf)
+~!Height (1.35mm)
+~!3D_Model (CL21A476MQYNNNE)
+CL21A476MQYNNNE
+1.1!U 2.1!U 

@@ -1,4 +1,4 @@
-26747144575896519
+26757758737352233
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2820,6 +2820,13 @@ CAPC3216X180N
 0
 2
 2
+CLT32_R20_200nH
+IND_CLT32-R20
+
+
+0
+4
+4
 CRGP0805F10R
 RESC2012X65N
 
@@ -2842,6 +2849,20 @@ CAPC1005X70N
 2
 2
 C_47pF
+CAPC1005X55N
+
+
+0
+2
+2
+C_100nF
+CAPC1608X90
+<b>CAPACITOR</b>
+
+0
+2
+2
+C_100pF
 CAPC1005X55N
 
 
@@ -70629,6 +70650,13 @@ Yellow 5381 Series LED
 0
 2
 2
+LQG15HS18NJ02D_18nH
+INDC1005X55N
+
+
+0
+2
+2
 MCU_RaspberryPi_and_Boards
 Crystal_SMD_HC49-US
 SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
@@ -93736,6 +93764,13 @@ GRADCONN_RFPC-SMA29-F
 0
 5
 5
+RFPC-SMA30-F
+GRADCONN_RFPC-SMA30-F
+
+
+0
+5
+5
 RF_Antenna
 AVX_M620720
 868Mhz, 915Mhz ISM antenna, 6 x 2 x 1.08mm, http://datasheets.avx.com/ethertronics/AVX-E_M620720.pdf
@@ -95027,6 +95062,13 @@ Integrated Circuit
 R_10OHM
 RESC1005X40
 <b>RESISTOR</b>
+
+0
+2
+2
+R_220O
+RESC6332X70N
+
 
 0
 2

@@ -1,0 +1,105 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CL21A476MQYNNNE"
+   (description "Cap Ceramic 47uF 6.3V X5R 20% Pad SMD 0805 85C T/R")
+   (family "CAP")
+   (package "CAPC2012X135N")
+   (attribute "Datasheet Link" "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf")
+   (attribute "Geometry.Height" "1.35mm")
+   (attribute "Manufacturer_Name" "SAMSUNG")
+   (attribute "Manufacturer_Part_Number" "CL21A476MQYNNNE")
+   (attribute "Mouser Part Number" "187-CL21A476MQYNNNE")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A476MQYNNNE?qs=yOVawPpwOwkBQMdcEdF9JA%3D%3D")
+   (attribute "Arrow Part Number" "CL21A476MQYNNNE")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/cl21a476mqynnne/samsung-electro-mechanics?region=nac")
+   (gate
+    (symbol "CL21A476MQYNNNE")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "CL21A476MQYNNNE"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPC2012X135N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.425 0.85)
+      (pt 1.425 0.85)
+      (pt 1.425 -0.85)
+      (pt -1.425 -0.85)
+      (pt -1.425 0.85))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 0.625)
+      (pt 1 0.625)
+      (pt 1 -0.625)
+      (pt -1 -0.625)
+      (pt -1 0.625))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 0.525)
+      (pt 0 -0.525))))
+   (leg 1 (pt -0.82 0) (padstack 0))
+   (leg 2 (pt 0.82 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.91 1.39 0 0 90))
+   )
+   (model "CL21A476MQYNNNE.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

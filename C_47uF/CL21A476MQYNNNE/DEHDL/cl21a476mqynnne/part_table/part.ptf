@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CL21A476MQYNNNE'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "SAMSUNG", "CL21A476MQYNNNE" (!) = "", "CAPC2012X135N", "Capacitor Chip Non-polarised", "187-CL21A476MQYNNNE", "https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL21A476MQYNNNE?qs=yOVawPpwOwkBQMdcEdF9JA%3D%3D", "CL21A476MQYNNNE", "https://www.arrow.com/en/products/cl21a476mqynnne/samsung-electro-mechanics?region=nac", "Cap Ceramic 47uF 6.3V X5R 20% Pad SMD 0805 85C T/R", "https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf", "1.35 mm"
+END_PART
+
+END.

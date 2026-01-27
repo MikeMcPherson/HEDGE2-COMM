@@ -1,0 +1,9 @@
+Manufacturer=SAMSUNG
+PartNumber=CL21A476MQYNNNE
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.1
+Released=2020-04-20 09:59:56
+Downloaded=2026-01-22 19:25:35
+3D=Y

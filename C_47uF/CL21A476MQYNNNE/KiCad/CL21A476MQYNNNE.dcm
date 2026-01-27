@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CL21A476MQYNNNE
+D Cap Ceramic 47uF 6.3V X5R 20% Pad SMD 0805 85C T/R
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf
+$ENDCMP
+#
+#End Doc Library
