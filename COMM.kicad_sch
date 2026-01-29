@@ -3087,9 +3087,9 @@
 		)
 	)
 	(arc
-		(start 248.5391 46.609)
-		(mid 250.3802 51.054)
-		(end 248.5391 55.499)
+		(start 248.5391 45.339)
+		(mid 250.3802 49.784)
+		(end 248.5391 54.229)
 		(stroke
 			(width 0)
 			(type default)
@@ -3139,9 +3139,9 @@
 		(uuid eebc6e20-447c-4978-9f89-e099c9ccfc92)
 	)
 	(arc
-		(start 247.2691 47.879)
-		(mid 248.586 51.054)
-		(end 247.2691 54.229)
+		(start 247.2691 46.609)
+		(mid 248.5831 49.7828)
+		(end 247.2691 52.959)
 		(stroke
 			(width 0)
 			(type default)
@@ -3152,9 +3152,9 @@
 		(uuid f748ee40-061f-4515-807e-22d394d1ea1f)
 	)
 	(arc
-		(start 245.9991 49.149)
-		(mid 246.7871 51.0528)
-		(end 245.9991 52.959)
+		(start 245.9991 47.879)
+		(mid 246.7842 49.7828)
+		(end 245.9991 51.689)
 		(stroke
 			(width 0)
 			(type default)
@@ -3176,7 +3176,7 @@
 	)
 	(text "Data to\nAPRS Network\n"
 		(exclude_from_sim no)
-		(at 250.698 55.88 0)
+		(at 250.698 54.61 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3216,7 +3216,7 @@
 		(uuid "bbaf044e-a541-4efb-a7ad-211c9d2392ec")
 	)
 	(junction
-		(at 238.76 52.07)
+		(at 238.76 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a9cb05f-7e3f-4e6c-b4a0-a84a28435e26")
@@ -3246,7 +3246,7 @@
 		(uuid "68bd2615-274e-4a62-8eb5-57fd04ea41cc")
 	)
 	(junction
-		(at 236.22 52.07)
+		(at 236.22 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6d54105d-fbca-477f-b68d-1360426237cb")
@@ -3258,7 +3258,7 @@
 		(uuid "7c18ed3e-58d7-4dc4-b51e-6c23ffd4599c")
 	)
 	(junction
-		(at 241.3 52.07)
+		(at 241.3 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "89f8b40d-b900-49f2-a897-b06e98380774")
@@ -3469,7 +3469,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 45.72) (xy 241.3 45.72)
+			(xy 215.9 44.45) (xy 241.3 44.45)
 		)
 		(stroke
 			(width 0)
@@ -3519,7 +3519,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 52.07) (xy 238.76 52.07)
+			(xy 241.3 50.8) (xy 238.76 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3559,7 +3559,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 53.34) (xy 215.9 53.34)
+			(xy 217.17 55.88) (xy 215.9 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3629,7 +3629,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 50.8) (xy 238.76 52.07)
+			(xy 238.76 49.53) (xy 238.76 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3659,7 +3659,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 52.07) (xy 241.3 50.8)
+			(xy 241.3 50.8) (xy 241.3 49.53)
 		)
 		(stroke
 			(width 0)
@@ -3679,7 +3679,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 50.8) (xy 236.22 52.07)
+			(xy 236.22 49.53) (xy 236.22 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3709,7 +3709,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 52.07) (xy 233.68 52.07)
+			(xy 236.22 50.8) (xy 233.68 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3739,7 +3739,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 50.8) (xy 215.9 50.8)
+			(xy 217.17 53.34) (xy 215.9 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3879,7 +3879,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 52.07) (xy 243.84 52.07)
+			(xy 241.3 50.8) (xy 243.84 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3889,7 +3889,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 58.42) (xy 215.9 58.42)
+			(xy 217.17 60.96) (xy 215.9 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3899,7 +3899,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 52.07) (xy 238.76 52.07)
+			(xy 236.22 50.8) (xy 238.76 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3939,7 +3939,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 48.26) (xy 215.9 48.26)
+			(xy 217.17 50.8) (xy 215.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4169,7 +4169,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 55.88) (xy 215.9 55.88)
+			(xy 217.17 58.42) (xy 215.9 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4179,7 +4179,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 52.07) (xy 233.68 50.8)
+			(xy 233.68 50.8) (xy 233.68 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4338,7 +4338,7 @@
 		(uuid "2bb172cd-cda1-4d74-b708-7b228010a124")
 	)
 	(label "HST_RXD_DMR"
-		(at 217.17 48.26 0)
+		(at 217.17 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4358,7 +4358,7 @@
 		(uuid "448a582f-840d-4b72-8bdd-161eaf785b65")
 	)
 	(label "MIC_IN_DMR"
-		(at 217.17 58.42 0)
+		(at 217.17 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4468,7 +4468,7 @@
 		(uuid "ac725d3e-314b-417d-88e4-44fc71c31e31")
 	)
 	(label "HST_TXD_DMR"
-		(at 217.17 50.8 0)
+		(at 217.17 53.34 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4528,7 +4528,7 @@
 		(uuid "e2ccc4b5-6c46-4c3e-b32b-2c9d53b91f97")
 	)
 	(label "UART_TX_DMR"
-		(at 217.17 55.88 0)
+		(at 217.17 58.42 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4558,7 +4558,7 @@
 		(uuid "ed087e88-8b6d-4430-915a-af37817b55f0")
 	)
 	(label "UART_RX_DMR"
-		(at 217.17 53.34 0)
+		(at 217.17 55.88 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4597,7 +4597,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18054eac-3da4-451c-8283-f71a5f7e8868")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR017"
 			(at 187.96 69.85 0)
 			(effects
 				(font
@@ -4647,7 +4647,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR018")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -4655,7 +4655,7 @@
 	)
 	(symbol
 		(lib_id "RFPC-SMA30-F:RFPC-SMA30-F")
-		(at 243.84 45.72 0)
+		(at 243.84 44.45 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4664,7 +4664,7 @@
 		(dnp no)
 		(uuid "1e0dec0d-ca75-4c36-8015-dce33990cdf9")
 		(property "Reference" "J1"
-			(at 244.602 39.624 0)
+			(at 244.602 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4672,7 +4672,7 @@
 			)
 		)
 		(property "Value" "SMA Conn. (RFPC-SMA30-F)"
-			(at 244.602 42.164 0)
+			(at 244.602 40.894 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4680,7 +4680,7 @@
 			)
 		)
 		(property "Footprint" "RFPC-SMA30-F:GRADCONN_RFPC-SMA30-F"
-			(at 243.84 45.72 0)
+			(at 243.84 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4690,7 +4690,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 45.72 0)
+			(at 243.84 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4699,7 +4699,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 243.84 45.72 0)
+			(at 243.84 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4708,7 +4708,7 @@
 			)
 		)
 		(property "PARTREV" "1.0"
-			(at 243.84 45.72 0)
+			(at 243.84 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4718,7 +4718,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 243.84 45.72 0)
+			(at 243.84 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4728,7 +4728,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "10.3mm"
-			(at 243.84 45.72 0)
+			(at 243.84 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4738,7 +4738,7 @@
 			)
 		)
 		(property "MANUFACTURER" "GradConn"
-			(at 243.84 45.72 0)
+			(at 243.84 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5199,7 +5199,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "603105c5-56d2-400a-944d-b3ec5e5be579")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR012"
 			(at 144.78 120.65 0)
 			(effects
 				(font
@@ -5249,7 +5249,7 @@
 		(instances
 			(project ""
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR017")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -5335,7 +5335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63cef593-30d3-4c90-b310-91c81f2d939b")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR019"
 			(at 208.28 162.56 0)
 			(effects
 				(font
@@ -5385,7 +5385,7 @@
 		(instances
 			(project ""
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR020")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -5761,7 +5761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f8c5c29-8cc6-411c-b969-9102d4670886")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR015"
 			(at 165.1 101.6 0)
 			(effects
 				(font
@@ -5811,7 +5811,7 @@
 		(instances
 			(project ""
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR012")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -5819,7 +5819,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 241.3 52.07 0)
+		(at 241.3 50.8 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5828,8 +5828,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78115778-998d-49bd-b73f-69cd5ccd1e44")
-		(property "Reference" "#PWR019"
-			(at 241.3 58.42 0)
+		(property "Reference" "#PWR020"
+			(at 241.3 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5838,7 +5838,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 241.3 57.15 0)
+			(at 241.3 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5846,7 +5846,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 241.3 52.07 0)
+			(at 241.3 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5855,7 +5855,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 52.07 0)
+			(at 241.3 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5864,7 +5864,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 241.3 52.07 0)
+			(at 241.3 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5878,7 +5878,7 @@
 		(instances
 			(project ""
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR019")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -5960,7 +5960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dc0f099-a7dd-4b17-bd38-aca667e1a0cd")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR014"
 			(at 161.29 91.44 0)
 			(effects
 				(font
@@ -6010,7 +6010,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR011")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -6229,7 +6229,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "90106369-861c-4c5d-a741-220850e9d96b")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR011"
 			(at 128.27 81.28 0)
 			(effects
 				(font
@@ -6280,7 +6280,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR014")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -6862,7 +6862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e83b9168-3dec-438c-8fc3-7e91b9582943")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR018"
 			(at 189.23 101.6 0)
 			(effects
 				(font
@@ -6912,7 +6912,7 @@
 		(instances
 			(project "COMM Board"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR016")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -7488,7 +7488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb987295-6cda-4ccf-ba13-76693259d2de")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR016"
 			(at 177.8 101.6 0)
 			(effects
 				(font
@@ -7538,7 +7538,7 @@
 		(instances
 			(project "COMM Board"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c"
-					(reference "#PWR015")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -7579,7 +7579,7 @@
 			)
 		)
 		(pin "ANT" output
-			(at 215.9 45.72 0)
+			(at 215.9 44.45 0)
 			(uuid "96d247b1-ad1e-48ff-af2f-e6ff9ab604ee")
 			(effects
 				(font
@@ -7589,7 +7589,7 @@
 			)
 		)
 		(pin "HST_RXD" input
-			(at 215.9 48.26 0)
+			(at 215.9 50.8 0)
 			(uuid "18be5545-b730-4bed-bb9b-e4862783e17c")
 			(effects
 				(font
@@ -7599,7 +7599,7 @@
 			)
 		)
 		(pin "HST_TXD" output
-			(at 215.9 50.8 0)
+			(at 215.9 53.34 0)
 			(uuid "11fa2278-07e0-4fad-8216-b3c3048fa09c")
 			(effects
 				(font
@@ -7619,7 +7619,7 @@
 			)
 		)
 		(pin "MIC_IN" input
-			(at 215.9 58.42 0)
+			(at 215.9 60.96 0)
 			(uuid "1b045476-5584-4033-a3fd-76e6060bac93")
 			(effects
 				(font
@@ -7649,7 +7649,7 @@
 			)
 		)
 		(pin "UART_RX" input
-			(at 215.9 53.34 0)
+			(at 215.9 55.88 0)
 			(uuid "d0a88e72-3bdd-472a-8d6b-0098856f3519")
 			(effects
 				(font
@@ -7659,7 +7659,7 @@
 			)
 		)
 		(pin "UART_TX" output
-			(at 215.9 55.88 0)
+			(at 215.9 58.42 0)
 			(uuid "569ebdbe-c72e-4410-af11-3e21a9b83d77")
 			(effects
 				(font
