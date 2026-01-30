@@ -9060,6 +9060,17 @@
 			(uuid "97b9db82-8b00-455f-ae1d-d6a4e1bfa8f9")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/DMR818S-3D/DMR818S.STEP"
+			(offset
+				(xyz -12 -19.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3_Pad_Via"
 		(locked yes)
@@ -11845,7 +11856,7 @@
 			(uuid "19a3a96d-7840-4cbe-8ee0-11415dd985c6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -0.7454 -1.9304 180)
+			(at -0.7454 -1.9304 0)
 			(layer "F.Fab")
 			(uuid "67ab54dc-61f0-42dc-8e9f-3d5714bde7c9")
 			(effects
@@ -11872,6 +11883,17 @@
 			(uuid "28c78f92-2ee5-4834-950e-be81e8aa7f38")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/LIB_RC0402FR-0710KL/RC0402FR-0710KL/RC0402FR-0710KL.STEP"
+			(offset
+				(xyz 0 -0.225 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "C_10uF:CAPC1005X70N"
 		(placed yes)
