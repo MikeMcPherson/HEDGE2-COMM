@@ -1,0 +1,18 @@
+.TLV61047DDCR :1 ;Switching Voltage Regulators 20VIN, 28VOUT, 2.2A non-synchronous boost converter with SOT23-5 DDC package
+SOT95P280X110-5N
+*STM IC
+*NGS
+*PLB 1="SW" 2="GND" 3="FB" 4="EN" 5="VIN"
+*MXP 5
+*DFN TLV61047DDCR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TLV61047DDCR)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tlv61047.pdf?ts=1744891624532&ref_url=https%253A%252F%252Fwww.ti.com%252Fcompare-products%252F%253Fid%253D360082%2526type%253DGPT%2526partList%253DTLV61047%252CTLV61048%252CTLV61046A%252CTPS61096A%2526columnList%253D-2%25)
+~!Height (1.1mm)
+~!3D_Model (TLV61047DDCR)
+TLV61047DDCR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

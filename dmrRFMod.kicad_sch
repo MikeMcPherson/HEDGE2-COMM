@@ -9,23 +9,23 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 0 28.448 0)
+			(property "Reference" "U2"
+				(at 0 -24.638 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" ""
-				(at -12.7 11.43 0)
+			(property "Value" "DMR Module (DMR818S-5W)"
+				(at 0 -27.178 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "DMR818S:DMR818SU"
 				(at -12.7 11.43 0)
 				(effects
 					(font
@@ -242,6 +242,25 @@
 						)
 					)
 					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 0 -15.24 90)
+					(length 2.54)
+					(hide yes)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "21"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2247,7 +2266,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DMR818S:DMR818SU"
+		(property "Footprint" "DMR818S:DMR818S-5W"
 			(at 165.1 77.47 0)
 			(effects
 				(font
@@ -2327,6 +2346,9 @@
 		)
 		(pin "14"
 			(uuid "ead09bc6-3a90-4f3a-840d-856c99d46fa1")
+		)
+		(pin "21"
+			(uuid "0df2fd17-76f6-4313-bef9-9cc677fd6237")
 		)
 		(instances
 			(project "COMM"

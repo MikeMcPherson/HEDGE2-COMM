@@ -672,12 +672,13 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "18.5V, 2A, 650kHz / 1.2MHz Step-Up DC-DC Converter w/ Forced PWM Mode 8-TSSOP -40 to 85"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify bottom)
 					(hide yes)
 				)
 			)
@@ -752,16 +753,6 @@
 				)
 			)
 			(property "AVAILABILITY" "Unavailable"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "DESCRIPTION" "18.5V, 2A, 650kHz / 1.2MHz Step-Up DC-DC Converter w/ Forced PWM Mode 8-TSSOP -40 to 85"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1440,7 +1431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C_100nF:CAPC1608X90"
 			(at 104.4448 82.55 0)
 			(effects
 				(font
@@ -1509,7 +1500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C_1uF:CAPC1005X55N"
 			(at 176.2252 66.04 0)
 			(effects
 				(font
@@ -1579,7 +1570,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C_10uF:CAPC1005X70N"
 			(at 192.7352 97.79 0)
 			(effects
 				(font
@@ -1649,7 +1640,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
 			(at 162.306 99.314 90)
 			(effects
 				(font
@@ -1919,7 +1910,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "C_10uF:CAPC1005X70N"
 			(at 174.2948 123.19 0)
 			(effects
 				(font
@@ -2188,7 +2179,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
 			(at 147.574 120.904 90)
 			(effects
 				(font
@@ -2324,7 +2315,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 162.2552 110.49 0)
 			(effects
 				(font
@@ -2643,7 +2634,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1210_3225Metric"
 			(at 119.126 127.254 90)
 			(effects
 				(font
@@ -2711,7 +2702,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric"
 			(at 184.15 88.9 0)
 			(effects
 				(font

@@ -1,0 +1,128 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TLV61047DDCR"
+   (description "Switching Voltage Regulators 20VIN, 28VOUT, 2.2A non-synchronous boost converter with SOT23-5 DDC package")
+   (family "ANA")
+   (package "SOT95P280X110-5N")
+   (attribute "Datasheet Link" "https://www.ti.com/lit/ds/symlink/tlv61047.pdf?ts=1744891624532&ref_url=https%253A%252F%252Fwww.ti.com%252Fcompare-products%252F%253Fid%253D360082%2526type%253DGPT%2526partList%253DTLV61047%252CTLV61048%252CTLV61046A%252CTPS61096A%2526columnList%253D-2%25")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "TLV61047DDCR")
+   (attribute "Mouser Part Number" "")
+   (attribute "Mouser Price/Stock" "")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "TLV61047DDCR")
+    (pin "SW" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "FB" 3 PS)
+    (pin "EN" 4 PS)
+    (pin "VIN" 5 PS)
+   )
+  )
+  (symbol "TLV61047DDCR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SOT95P280X110-5N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.125 1.775)
+      (pt 2.125 1.775)
+      (pt 2.125 -1.775)
+      (pt -2.125 -1.775)
+      (pt -2.125 1.775))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.8 1.45)
+      (pt 0.8 1.45)
+      (pt 0.8 -1.45)
+      (pt -0.8 -1.45)
+      (pt -0.8 1.45))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.5)
+      (pt 0.15 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.275 1.45)
+      (pt 0.275 1.45)
+      (pt 0.275 -1.45)
+      (pt -0.275 -1.45)
+      (pt -0.275 1.45))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.875 1.5)
+      (pt -0.625 1.5))))
+   (leg 1 (pt -1.25 0.95) (padstack 0))
+   (leg 2 (pt -1.25 0) (padstack 0))
+   (leg 3 (pt -1.25 -0.95) (padstack 0))
+   (leg 4 (pt 1.25 -0.95) (padstack 0))
+   (leg 5 (pt 1.25 0.95) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.6 1.25 0 0 0))
+   )
+   (model "TLV61047DDCR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
