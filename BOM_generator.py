@@ -1,6 +1,6 @@
 import openpyxl as op
 
-raw = op.load_workbook("COMM_BOM.xlsx")
+raw = op.load_workbook("COMM_BOM (2).xlsx")
 wsRaw = raw.active
 
 row_lists = []
@@ -10,9 +10,7 @@ for row in wsRaw.iter_rows(values_only=True):
 
     for cell_value in row:
         if isinstance(cell_value, str):
-            row_items.extend(
-                x.strip() for x in cell_value.split(";") if x.strip()
-            )
+            row_items.extend(x.strip() for x in cell_value.split(";") if x.strip())
 
     row_lists.append(row_items)
 

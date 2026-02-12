@@ -1400,7 +1400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fdb1deb-e6a9-4a8e-8842-49fa92dfde27")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR034"
 			(at 198.12 110.49 0)
 			(effects
 				(font
@@ -1450,7 +1450,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "#PWR036")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -1616,7 +1616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4301cb37-7cd8-49d8-a53b-a52be66bbd74")
-		(property "Reference" "C13"
+		(property "Reference" "C10"
 			(at 176.53 80.0099 0)
 			(effects
 				(font
@@ -1670,7 +1670,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "C13")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -1686,7 +1686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a2ff612-4856-439b-a742-28ffa7b7e6cc")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR030"
 			(at 120.65 91.44 0)
 			(effects
 				(font
@@ -1736,7 +1736,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "#PWR032")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -1822,7 +1822,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "761610aa-58aa-41d5-acf4-b942f02cd3a3")
-		(property "Reference" "L2"
+		(property "Reference" "L1"
 			(at 139.7 69.85 90)
 			(effects
 				(font
@@ -1874,7 +1874,7 @@
 		(instances
 			(project ""
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "L2")
+					(reference "L1")
 					(unit 1)
 				)
 			)
@@ -1890,7 +1890,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9809013d-4fa4-4bdc-9c9b-ca5651c4667d")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR031"
 			(at 158.75 92.71 0)
 			(effects
 				(font
@@ -1941,7 +1941,7 @@
 		(instances
 			(project ""
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "#PWR033")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -1957,7 +1957,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "afc5efad-1510-4635-a673-417299a18f98")
-		(property "Reference" "C12"
+		(property "Reference" "C9"
 			(at 116.84 80.0099 0)
 			(effects
 				(font
@@ -2011,7 +2011,7 @@
 		(instances
 			(project ""
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "C12")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -2027,7 +2027,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9ac52bb-3917-4038-9778-2b18878c2239")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR032"
 			(at 172.72 91.44 0)
 			(effects
 				(font
@@ -2077,7 +2077,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "#PWR034")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -2163,7 +2163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc5b8d2f-285e-46b5-b10a-48b4e1e6e7b3")
-		(property "Reference" "C14"
+		(property "Reference" "C11"
 			(at 189.23 80.0099 0)
 			(effects
 				(font
@@ -2217,7 +2217,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "C14")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -2249,7 +2249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "PMEG3020BER_115:DIODE_SOD123W_1P9X2P8_NEX"
 			(at 163.83 71.755 0)
 			(effects
 				(font
@@ -2301,7 +2301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8177c13-1668-4287-a56c-967f65459488")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR033"
 			(at 185.42 91.44 0)
 			(effects
 				(font
@@ -2351,7 +2351,7 @@
 		(instances
 			(project "COMM"
 				(path "/b0bd204d-ca77-4624-acd2-31813bf00a6c/0fe138ce-d52b-4e48-afd9-f8e26f885e70"
-					(reference "#PWR035")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
