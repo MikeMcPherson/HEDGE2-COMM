@@ -1495,7 +1495,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "140 Ω"
+		(property "Value" "62 Ω"
 			(at 118.11 97.7899 0)
 			(effects
 				(font
@@ -1504,7 +1504,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "R_140O:RESC3216X70N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 121.666 96.774 90)
 			(effects
 				(font
@@ -2098,7 +2098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 120.65 104.14 0)
 			(effects
 				(font

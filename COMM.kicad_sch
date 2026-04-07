@@ -5142,7 +5142,7 @@
 				)
 			)
 		)
-		(property "Value" "110 Ω"
+		(property "Value" "62 Ω"
 			(at 240.03 93.726 0)
 			(effects
 				(font
@@ -5150,7 +5150,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R_110O:RESC1508X55N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 234.696 92.456 90)
 			(effects
 				(font
@@ -5284,7 +5284,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 233.68 100.33 0)
 			(effects
 				(font
@@ -5484,7 +5484,7 @@
 				)
 			)
 		)
-		(property "Value" "250 Ω"
+		(property "Value" "220 Ω"
 			(at 180.34 60.706 0)
 			(effects
 				(font
@@ -5492,7 +5492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R_250O:RESC2012X65N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 175.006 59.436 90)
 			(effects
 				(font
@@ -5985,7 +5985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 173.99 67.31 0)
 			(effects
 				(font
@@ -6803,7 +6803,7 @@
 				)
 			)
 		)
-		(property "Value" "140 Ω"
+		(property "Value" "62 Ω"
 			(at 238.506 149.606 0)
 			(effects
 				(font
@@ -6811,7 +6811,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R_140O:RESC3216X70N"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 233.426 148.336 90)
 			(effects
 				(font
@@ -7213,7 +7213,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_THT:LED_D5.0mm"
 			(at 232.41 156.21 0)
 			(effects
 				(font
